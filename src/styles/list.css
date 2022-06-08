@@ -1,0 +1,18 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: aquamarine;
+    padding: 150px 30px;
+    
+}
+.cards {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    min-width: 200px;
+}
+
+.cards img {
+    width: 230px;
+}
